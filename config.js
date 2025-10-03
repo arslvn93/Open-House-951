@@ -1,4 +1,4 @@
-{
+const config = {
   "property": {
     "streetAddress": "18 Smith Road",
     "city": "Oxford Station",
@@ -120,6 +120,6 @@
     "repoUrl": "https://github.com/arslvn93/Open-House-951",
     "tag": "Open House 18 Smith Road",
     "netlifyUrl": null,
-    "siteId": "1069298004"
+    "siteId": "5ab7d73c-49b2-4f1a-b328-00ac76a1a942"
   }
 }
