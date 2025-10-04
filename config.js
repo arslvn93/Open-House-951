@@ -7,8 +7,8 @@ const config = {
     "backgroundImageUrl": "https://api.typeform.com/responses/files/9aca7d971c4bed735367e52848fdaa94abccb855511a06685f5c43c5e422bc11/f82d9887a00c_2_web_or_mls_DSC00257__1_.jpg"
   },
   "realtor": {
-    "fullName": "Driscoll-Peca Team",
-    "title": "REALTOR®",
+    "fullName": "Ryan from the Driscoll-Peca Team",
+    "title": " Realtor",
     "phone": "(613) 706-6822",
     "email": "ryan@driscollpeca.com",
     "bio": "",
