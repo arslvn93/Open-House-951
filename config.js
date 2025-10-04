@@ -12,7 +12,7 @@ const config = {
     "phone": "(613) 706-6822",
     "email": "ryan@driscollpeca.com",
     "bio": "",
-    "photoUrl": "",
+    "photoUrl": "https://cdn.realtor.ca/individual/TS638790399600000000/highres/1239160.jpg",
     "social": {
       "facebook": "https://www.facebook.com/driscollpecateam",
       "instagram": "https://www.instagram.com/driscollpecateam/",
