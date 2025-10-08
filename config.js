@@ -11,8 +11,8 @@ const config = {
     "title": " Realtor",
     "phone": "(613) 706-6822",
     "email": "ryan@driscollpeca.com",
-    "bio": "",
-    "photoUrl": "https://cdn.realtor.ca/individual/TS638790399600000000/highres/1239160.jpg",
+    "bio": "With over 12 years of experience in real estate, Ryan Hodgins has built a reputation for providing honest, \nknowledgeable, and personalized service. Born and raised in Kemptville, Ryan takes great pride in helping clients \nfind their place in the community he has always called home.\n\nHe specializes in guiding first-time homebuyers through every step of the process, making the experience exciting \nand stress-free. Ryan is equally passionate about assisting seniors who are looking to downsize, ensuring they feel \nsupported and confident in their next chapter.\n\nDedicated, approachable, and deeply connected to Kemptville, Ryan combines local expertise with a genuine love of \nhelping people achieve their real estate goals",
+    "photoUrl": "https://i.ibb.co/M4hRf3J/Agent-Headshots-17.png",
     "social": {
       "facebook": "https://www.facebook.com/driscollpecateam",
       "instagram": "https://www.instagram.com/driscollpecateam/",
